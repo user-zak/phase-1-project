@@ -8,7 +8,7 @@ Microsoft sees all the big companies creating original video content and they wa
 
 
 
-## ## Business Understanding
+## Business Understanding
 
 Microsoft wants to join in on the fun of creating original video content. They created a movie studio but don't know where to start. Therefore, they have tasked us with deriving meaningful insights from movie data to help them make informed business decisions and break into the video content industry.
 
@@ -30,24 +30,24 @@ Based on the analysis of the movie data, the following insights have been derive
 ### 1. Genre Focus
 
 To gain traction in the industry, Microsoft should focus on genres that bring in the highest revenue. Genres like Animation, Adventure, and Sci-Fi have shown promising performance in terms of revenue generation.
-![Alt Text](Images/output.png)
+![Alt Text](images/output.png)
 
 ### 2. Audience Preference
 
 Microsoft should not overlook the highest rated genres, as these genres reflect the preferences of the audience. Incorporating genres that the audience loves most can help in building a dedicated fan base.
-![Alt Text](Images/output1.png)
+![Alt Text](images/output1.png)
 ### 3. Runtime Optimization
 
 Keeping the audience engaged is crucial. It is recommended to target a runtime between 90-120 minutes, as longer movies tend to overwhelm the audience.
-![Alt Text](Images/output2.png)
+![Alt Text](images/output2.png)
 ### 4. International Audience
 
 To expand the studio's reach globally, Microsoft should focus on genres that resonate well with people in different regions. The analysis reveals that different genres perform well in different regions, confirming the hypothesis.
-![Alt Text](Images/output3.png)
+![Alt Text](images/output3.png)
 ### 5. Best Time to Launch
 
 The analysis indicates that the best time to launch a movie is between May and August. Releasing movies during this period has shown to generate the most revenue.
-![Alt Text](Images/output4.png)
+![Alt Text](images/output4.png)
 ## Repository Structure
 
 - `data/`: Contains the movie dataset used for analysis.
